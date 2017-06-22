@@ -1,2 +1,0 @@
-# zeroJS
-Blazing Fast
